@@ -1,0 +1,35 @@
+
+body{
+  background-color : #eaeaea;
+  font-family: 'Odibee Sans', cursive;
+  font-size: 20px
+}
+
+hr{
+  background-color: #eaeaea;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  color : #08d9d6;
+  width: 10%;
+}
+
+img{
+  border-radius:50%;
+}
+
+h1{
+ color:#252a34;
+}
+
+h3{
+  color:#08d9d6;
+
+}
+a{
+  color: #9399ff;
+  text-decoration:none;
+}
+a:hover{
+  color:#ff2e63
+}
